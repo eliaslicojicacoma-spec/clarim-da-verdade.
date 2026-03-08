@@ -1,0 +1,7 @@
+{
+  "name": "Clarim da Verdade-",
+  "description": "Missão de pregar o evangelho de Jesus Cristo. Fundado por Elias Licoji Cacoma em Angola.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
